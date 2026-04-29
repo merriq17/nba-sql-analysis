@@ -35,4 +35,4 @@ but also ranked competitively in scoring
 - `nba_analysis.sql` — All queries with comments
 ## Visualizations
 Interactive dashboards built in Tableau Public:
-https://public.tableau.com/profile/api/publish/NBAStats_17774746129150/Sheet4
+https://public.tableau.com/app/profile/merriq.shore/viz/NBAStats_17774746129150/Dashboard1?publish=yes
