@@ -33,3 +33,6 @@ but also ranked competitively in scoring
 
 ## Files
 - `nba_analysis.sql` — All queries with comments
+## Visualizations
+Interactive dashboards built in Tableau Public:
+https://public.tableau.com/profile/api/publish/NBAStats_17774746129150/Sheet4
